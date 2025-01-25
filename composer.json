@@ -1,0 +1,13 @@
+{
+    "name": "timothymills/quote-button",
+    "type": "kirby-plugin",
+    "description": "Adds a blockquote button to the panel.",
+    "version": "1.0.0",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Timothy Mills",
+            "email": "hello@timothymills.net"
+        }
+    ]
+}
