@@ -2,7 +2,7 @@
     "name": "timothymills/quote-button",
     "type": "kirby-plugin",
     "description": "Adds a blockquote button to the panel.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": "MIT",
     "authors": [
         {
@@ -10,4 +10,7 @@
             "email": "hello@timothymills.net"
         }
     ]
+	"require": {
+		"getkirby/composer-installer": "^1.1"
+	}
 }
