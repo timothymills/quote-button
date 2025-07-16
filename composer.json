@@ -9,7 +9,7 @@
             "name": "Timothy Mills",
             "email": "hello@timothymills.net"
         }
-    ]
+    ],
 	"require": {
 		"getkirby/composer-installer": "^1.1"
 	}
