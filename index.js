@@ -1,4 +1,4 @@
-panel.plugin("getkirby/custom-textarea-buttons", {
+panel.plugin("timothymills/quote-button", {
   textareaButtons: {
     quote: {
       label: "Quote",
